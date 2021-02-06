@@ -4,10 +4,10 @@ Pre-Work for Android
 ## Hello World
 
 ### App Description
-`TODO://` Welcomes the user and allows them to enter their own custom text, change the text color, change the background color, display a predefined text, and reset the app to default settings by tapping the background
+Welcomes the user and allows them to enter their own custom text, change the text color, change the background color, display a predefined text, and reset the app to default settings by tapping the background
 
 ### App Walk-though
-<img src="http://g.recordit.co/6NACU1yF56.gif" width=200><br>
+<img src="http://g.recordit.co/4Qwo0tJ7Yc.gif" width=200><br>
 
 
 ### Required User Stories
