@@ -7,9 +7,7 @@ Pre-Work for Android
 `TODO://` Welcomes the user and allows them to enter their own custom text, change the text color, change the background color, display a predefined text, and reset the app to default settings by tapping the background
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="http://g.recordit.co/6NACU1yF56.gif" width=200><br>
 
 
 ### Required User Stories
